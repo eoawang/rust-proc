@@ -1,0 +1,7 @@
+
+#proc file
+
+mkdir proc
+
+touch rust proc
+
